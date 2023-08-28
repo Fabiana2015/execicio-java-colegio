@@ -1,1 +1,1 @@
-# execicio-java-colegio
+# exercicio-java-colegio
